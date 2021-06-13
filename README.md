@@ -6,3 +6,4 @@ Uses python and regular expressions to allow users to preview and export top-ten
 - Tkinter
 - HTML
 - SQLite
+- Beautiful Soup
